@@ -4,10 +4,10 @@
 </div>
 
 <p align="center">
-	 <a href="#status"> Status </a>  •
-	 <a href="#descri%C3%A7%C3%A3o"> Descrição </a>  • 
-   <a href="#tecnologias-e-ferramentas-utilizadas"> Tecnologias e ferramentas </a>  •
-   <a href="#notebooks-e-notas-de-estudo"> Notebooks e notas de estudo </a>
+	 <a href="#-status"> Status </a>  •
+	 <a href="#-descri%C3%A7%C3%A3o"> Descrição </a>  •
+   <a href="#-tecnologias-e-ferramentas-utilizadas"> Tecnologias e ferramentas </a>  •
+   <a href="#-notebooks-e-notas-de-estudo"> Notebooks e notas de estudo </a>
 </p>
 
 &nbsp;
@@ -39,7 +39,7 @@ O curso tem por objetivo compartilhar conhecimentos sobre tópicos de análise q
 
 &nbsp;
 
-## <img src="https://www.michelelozada.com.br/images_github/analise_preditiva/square.jpg" style="width:15px; vertical-align: middle; margin-right: 10px;"> Notebooks e notas de estudo   
+## <img src="https://www.michelelozada.com.br/images_github/analise_preditiva/square.jpg" style="width:15px; vertical-align: middle; margin-right: 10px;"> Notebooks no Google Colab e notas de estudo   
 
 &nbsp;&nbsp;**Notebooks:**  
 &nbsp;&nbsp; • &nbsp; Nivelamento: Fundamentos de Python ([link](https://colab.research.google.com/drive/1w7F4wU3q1KvyffOwIUCutKfXww5YPmNp?usp=sharing))  
@@ -49,7 +49,8 @@ O curso tem por objetivo compartilhar conhecimentos sobre tópicos de análise q
 &nbsp;&nbsp; • &nbsp; Nivelamento: Biblioteca Matplotlib ([link](https://colab.research.google.com/drive/1rWF9lC-qjyFLhWSOxzMdpgebW2WkdAIt?usp=sharing))   
 &nbsp;&nbsp; • &nbsp; Análise Exploratória de Dados Históricos (I) ([link](https://colab.research.google.com/drive/1Jff7CPkIZXkP88WI_hPH8gXszxdCrogb?usp=sharing))  
 &nbsp;&nbsp; • &nbsp; Análise Exploratória de Dados Históricos (II) ([link](https://colab.research.google.com/drive/18O2eTC56V15o1IzIRiLyleFA75MtHkz9?usp=sharing))  
-&nbsp;&nbsp; • &nbsp;  Análise de Efeito de Calendário ([link](https://colab.research.google.com/drive/1JiNZFt2Z0ok9oiwtfjnm2Ey15pmQO8CV?usp=sharing)) 
+&nbsp;&nbsp; • &nbsp; Análise de Estratégias Baseadas em Efeitos de Calendário ([link](https://colab.research.google.com/drive/1JiNZFt2Z0ok9oiwtfjnm2Ey15pmQO8CV?usp=sharing))  
+&nbsp;&nbsp; • &nbsp; Análise de Estratégias Baseadas em Variação de Preço ([link](https://colab.research.google.com/drive/169IVJbtyQFAVgnevl_kROmk1yf9S5UL6?usp=sharing)) 
 &nbsp;  
 
 &nbsp;&nbsp;**Notas de estudo:**    
